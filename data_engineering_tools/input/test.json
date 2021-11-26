@@ -1,0 +1,49 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3b27721e70ffab46bbc865725c388a92",
+        "name": "frame140.jpg",
+        "path": "file:/home/huseyn/synapline/custom_data/test1_data/frame140.jpg",
+        "size": {
+            "width": 2720,
+            "height": 1530
+        },
+        "state": 2,
+        "type": 1,
+        "predicted": true
+    },
+    "regions": [
+        {
+            "id": "eCws38b-G",
+            "type": "RECTANGLE",
+            "tags": [
+                "car"
+            ],
+            "boundingBox": {
+                "height": 13.022510730162102,
+                "width": 43.949582318722946,
+                "left": 544.2062977712392,
+                "top": 682.4861690311814
+            },
+            "points": [
+                {
+                    "x": 544.2062977712392,
+                    "y": 682.4861690311814
+                },
+                {
+                    "x": 588.1558800899621,
+                    "y": 682.4861690311814
+                },
+                {
+                    "x": 588.1558800899621,
+                    "y": 695.5086797613435
+                },
+                {
+                    "x": 544.2062977712392,
+                    "y": 695.5086797613435
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}
